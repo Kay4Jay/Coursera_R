@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588430926053.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2656706165",
+    "id" : "E58C19E8",
+    "lastKnownWriteTime" : 1588584515,
+    "last_content_update" : 1588584515160,
+    "path" : "~/Coursera - R/Test-Script.R",
+    "project_path" : "Test-Script.R",
+    "properties" : {
+        "cursorPosition" : "23,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

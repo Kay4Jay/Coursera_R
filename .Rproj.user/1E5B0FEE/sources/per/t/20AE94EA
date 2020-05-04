@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588584479539.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "20AE94EA",
+    "lastKnownWriteTime" : 1588584506,
+    "last_content_update" : 1588584506460,
+    "path" : "~/Coursera - R/Data Tool Scientist - Assingment Script.R",
+    "project_path" : "Data Tool Scientist - Assingment Script.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
